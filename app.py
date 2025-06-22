@@ -47,7 +47,7 @@ Fill in the values below to estimate the house price 💰
 """)
 
 # --- App Header ---
-st.markdown("<h2 style='text-align: center;'>🏡 California House Price Prediction</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center;'>🏡 House Price Prediction</h2>", unsafe_allow_html=True)
 
 st.markdown("### 🔢 Enter House Details")
 
